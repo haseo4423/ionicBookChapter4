@@ -1,0 +1,7 @@
+{
+  "name": "wp-tutorial",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
